@@ -1,0 +1,14 @@
+language:
+  node_js
+install:
+  - npm install -g codecov
+  - npm install
+script:
+  - npm test
+  - codecov
+node_js:
+  - v6
+  #- v6
+  #- v5
+  #- v4
+sudo: false
