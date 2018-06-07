@@ -1,6 +1,6 @@
 {
   "name": "shifu-util",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Mocking server util",
   "main": "index.js",
   "scripts": {
